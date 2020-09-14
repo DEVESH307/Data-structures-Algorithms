@@ -1,0 +1,28 @@
+Dear Mukesh,
+Greetings!
+I hope you and your family are safe and healthy.
+I am an ex-employee of Data Intensity, I am currently pursuing my M.Tech from Indian Institute of Technology Bombay. As IIT Bombay follows a strict 'Resume Verification Protocol', I need your little time to kindly verify few things which I have trained on under the guidance of you and Ora Talent when I was the part of this company.
+Sir, with your verification mail, I will be able to write these things in my Resume and showcase my past skills to the employer in a better manner.
+Sir, just for your reference, below is my employee ID when I was part of the organization. During my tenure, I was taught a different thing during training, and I worked on an entirely different technology. With this background, I request you to verify all the points kindly. For the verification purpose kindly share your employe details and some valid prrof also when you were the part of that organization.
+Please choose to Replay all option while sending a mail 
+
+Project Manager: Mukesh Gadidashu, Data Intensity [Nov ’2017-Sep ‘2018]
+
+1. Training: certified training on SQL and PL/SQL, Oracle e-Business suite, Linux Server, Oracle Database 11i, 12R, Core DBA, Apps Dba under the guidance of Ora Talent.
+2. PRODUCT OVERVIEW (FUSION DBA): FDBA is a shell scripts-based tool which was created to automate well known routine tasks: start/stop database, download/apply 11i and R12 patches, database health check, 11i and R12 clone and so on.
+3. TOOLS: Used Atlassian tools like (Jira, Stash, Bamboo, Confluence), Bash Shell Script, Service Now, Oracle e-Business suite, SQL Developer etc. 
+4. Expertise in SDLC and STLC concepts.
+5. Having experience in Software testing i.e. Manual Testing as well as robot testing.
+6. More than one year of experience on Fusion Dba Automation using Bash Shell Scripting.
+7. Strong understanding of automation techniques and atlassian tools related to the SDLC such as Jira, Bitbucket/Stash, Bamboo and Confluence.
+8. Experience working in an Agile (SCRUM) environment/team focusing on sprint by sprint deliveries.
+9. Experience with JIRA Software for Development and Test Planning.
+10. Utilizes STASH to help the team with all release and configuration related tasks around software builds into preproduction and production environments.
+11. Utilizes Bamboo as continuous integration (CI) server to automate the release management for a software application, to create a continuous delivery pipeline.
+12. Utilizes Confluence to help teams to collaborate and share knowledge efficiently.
+13. Strong knowledge on database using SQL developer.
+14. Strong, practical understanding of oracle database 11i, R12 and fad a good hand on RMAN for Backup and recovery, Installation, Configuration, Migration, upgrade, cloning, patching, Performance Tuning.
+15. Utilizes Service Now to solve DI client problem based on fusion dba.
+
+
+
